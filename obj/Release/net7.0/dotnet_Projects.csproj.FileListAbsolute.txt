@@ -1,0 +1,15 @@
+/Users/admin/Documents/dotnet_Projects/.net-debug/bin/Release/net7.0/dotnet_Projects
+/Users/admin/Documents/dotnet_Projects/.net-debug/bin/Release/net7.0/dotnet_Projects.deps.json
+/Users/admin/Documents/dotnet_Projects/.net-debug/bin/Release/net7.0/dotnet_Projects.runtimeconfig.json
+/Users/admin/Documents/dotnet_Projects/.net-debug/bin/Release/net7.0/dotnet_Projects.dll
+/Users/admin/Documents/dotnet_Projects/.net-debug/bin/Release/net7.0/dotnet_Projects.pdb
+/Users/admin/Documents/dotnet_Projects/.net-debug/obj/Release/net7.0/dotnet_Projects.csproj.AssemblyReference.cache
+/Users/admin/Documents/dotnet_Projects/.net-debug/obj/Release/net7.0/dotnet_Projects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/dotnet_Projects/.net-debug/obj/Release/net7.0/dotnet_Projects.AssemblyInfoInputs.cache
+/Users/admin/Documents/dotnet_Projects/.net-debug/obj/Release/net7.0/dotnet_Projects.AssemblyInfo.cs
+/Users/admin/Documents/dotnet_Projects/.net-debug/obj/Release/net7.0/dotnet_Projects.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/dotnet_Projects/.net-debug/obj/Release/net7.0/dotnet_Projects.dll
+/Users/admin/Documents/dotnet_Projects/.net-debug/obj/Release/net7.0/refint/dotnet_Projects.dll
+/Users/admin/Documents/dotnet_Projects/.net-debug/obj/Release/net7.0/dotnet_Projects.pdb
+/Users/admin/Documents/dotnet_Projects/.net-debug/obj/Release/net7.0/dotnet_Projects.genruntimeconfig.cache
+/Users/admin/Documents/dotnet_Projects/.net-debug/obj/Release/net7.0/ref/dotnet_Projects.dll
