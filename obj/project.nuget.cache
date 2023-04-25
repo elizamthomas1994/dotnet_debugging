@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "26PZ4rDFpk3PmA7osReJTk82goUQ1JIkGAtIHjq90LBYMOceuti9Irr0MLOBHEEgtH1HN27GfL/Fo5wOFpta7g==",
+  "dgSpecHash": "szRmw9ZlMjFfBKxjFxHq1B3F0jbYFc47zuP/0SL4nnZziBx0WYZvOXtfauS1V3KX8dMWuPwC5Bq7frBEVYieTg==",
   "success": true,
-  "projectFilePath": "/Users/admin/Documents/dotnet_Projects/dotnet_Projects.csproj",
+  "projectFilePath": "/Users/admin/Documents/dotnet_Projects/.net-debug/dotnet_Projects.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

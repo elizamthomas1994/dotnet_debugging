@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/admin/Documents/dotnet_Projects/dotnet_Projects.csproj": {}
+    "/Users/admin/Documents/dotnet_Projects/.net-debug/dotnet_Projects.csproj": {}
   },
   "projects": {
-    "/Users/admin/Documents/dotnet_Projects/dotnet_Projects.csproj": {
+    "/Users/admin/Documents/dotnet_Projects/.net-debug/dotnet_Projects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/admin/Documents/dotnet_Projects/dotnet_Projects.csproj",
+        "projectUniqueName": "/Users/admin/Documents/dotnet_Projects/.net-debug/dotnet_Projects.csproj",
         "projectName": "dotnet_Projects",
-        "projectPath": "/Users/admin/Documents/dotnet_Projects/dotnet_Projects.csproj",
+        "projectPath": "/Users/admin/Documents/dotnet_Projects/.net-debug/dotnet_Projects.csproj",
         "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/Documents/dotnet_Projects/obj/",
+        "outputPath": "/Users/admin/Documents/dotnet_Projects/.net-debug/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/admin/.nuget/NuGet/NuGet.Config"
